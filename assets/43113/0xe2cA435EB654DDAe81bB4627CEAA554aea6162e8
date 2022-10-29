@@ -1,0 +1,13 @@
+├─ tokens/
+└─┬─ assets/
+  └─┬─[chain_id]/
+    │
+    ├─┬─ 0xe2cA435EB654DDAe81bB4627CEAA554aea6162e8/
+    │ ├── logo_24.png
+    │ └── logo_48.png
+    │
+    ├─┬─ 0xe2cA435EB654DDAe81bB4627CEAA554aea6162e8/
+    │ ├── logo_24.png
+    │ └── logo_48.png
+    │
+ ...
